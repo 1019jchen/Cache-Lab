@@ -4,7 +4,6 @@
 **Computer Systems Organizations**\
 \
 A Computer Systems lab written in C to simulate caches in a computer.\
-\
 
 Files:\
 **csim.c**: Takes in a memory access trace as an input and returns the total number of hits, misses, and evictions in a simulated cache. The user can specify the associativity and size of the cache.\
